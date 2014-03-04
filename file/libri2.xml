@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libri>
+	<libro pagine="20">
+		<titolo>Java Base</titolo>
+	</libro>
+	<libro>
+		<titolo>VB6 Base</titolo>
+		<autore>Jemma Oconnel</autore>
+	</libro>
+</libri>
